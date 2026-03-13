@@ -145,11 +145,7 @@
             });
 
             $('.close-btn').on('click', function() { $('#schedaDettaglio').fadeOut(); });
-        },
-        error: function(err) { console.error("Errore nel caricamento del CSV. Controlla il percorso!", err); }
-    });
 
-    // Chiudi modal cliccando fuori
     $(window).on('click', function(e) { if (e.target.className === 'modal') $('#schedaDettaglio').fadeOut(); });
 </script>
 
