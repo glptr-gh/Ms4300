@@ -69,7 +69,6 @@
 | Taches + Dégradation due à l'encre | Yes | No | No | ? |
 | Taches + Humidité | Yes | No | No | ? |
 | Taches + Moisissures | Yes | No | No | ? |
-| Taches + Traces d'insectes | No | No | No | ? |
 | Taches + Manipulation | Yes | No | No | ? |
 | Éclaircissement + Poussière | Yes | No | No | ? |
 | Éclaircissement + Dégradation due à l'encre | ? | No | No | ? |
