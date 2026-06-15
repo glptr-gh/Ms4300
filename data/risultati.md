@@ -59,3 +59,23 @@
 | Plis + Traces d'insectes | No | No | Moyenne | 1 vs 2 — probabilmente no |
 
 ---
+
+## Discussione su macchie e schiarimento
+
+---
+
+| Taches + Poussière | Yes | No | No | ? |
+| Taches + Éclaircissement | Yes | No | No | ? |
+| Taches + Dégradation due à l'encre | Yes | No | No | ? |
+| Taches + Humidité | Yes | No | No | ? |
+| Taches + Moisissures | Yes | No | No | ? |
+| Taches + Traces d'insectes | No |  | No | ? |
+| Taches + Manipulation | Yes | No | No | ? |
+| Éclaircissement + Poussière | Yes | No | No | ? |
+| Éclaircissement + Dégradation due à l'encre | ? | No | No | ? |
+| Éclaircissement + Humidité | ? | No | No | ? |
+| Éclaircissement + Moisissures | Yes | No | No | ? |
+| Éclaircissement + Traces d'insectes | No | No | No | ? |
+| Éclaircissement + Manipulation | Yes | No | No | ? |
+
+---
