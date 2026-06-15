@@ -6,19 +6,19 @@
 |---|---|---|---|---|
 | Froissures + Plis | Moyenne | Moyenne | Moyenne | **Moyenne** ✓ |
 | Lacunes + Perte de matière | Intense | Intense | Intense | **Intense** ✓ |
-| Lacunes + Dégradation de l'encre | Intense | Intense | Moyenne | **Intense** |
+| Lacunes + Dégradation due à l'encre | Intense | Intense | Moyenne | **Intense** |
 | Lacunes + Humidité | confermata | Moyenne | Moyenne | **Moyenne** |
 | Lacunes + Moisissures | confermata | Intense | Moyenne | **Moyenne/Intense** |
-| Plis + Dégradation de l'encre | Intense | Intense | Moyenne | **Intense** |
+| Plis + Dégradation due à l'encre | Intense | Intense | Moyenne | **Intense** |
 | Plis + Humidité | Faible | Moyenne | Moyenne | **Moyenne** |
 | Perte de matière + Dégradation de l'encre | Intense | Moyenne | Moyenne | **Moyenne** |
-| Dégradation de l'encre + Humidité | Intense | Moyenne | Moyenne | **Moyenne/Intense** ✓ |
-| Dégradation de l'encre + Moisissures | Intense | Intense | Faible | **Intense** |
+| Dégradation due à l'encre + Humidité | Intense | Moyenne | Moyenne | **Moyenne/Intense** ✓ |
+| Dégradation due à l'encre + Moisissures | Intense | Intense | Faible | **Intense** |
 | Humidité + Moisissures | Intense | Intense | Moyenne | **Intense** ✓ |
 | Poussière + Moisissures | Intense | Intense | Moyenne | **Intense** |
 | Déchirures + Lacunes | Intense | Faible | Intense | **Intense** |
 | Déchirures + Plis | Intense | Moyenne | Moyenne | **Moyenne** |
-| Déchirures + Dégradation de l'encre | Intense | Moyenne | Intense | **Intense** |
+| Déchirures + Dégradation due à l'encre | Intense | Moyenne | Intense | **Intense** |
 | Déchirures + Humidité | Intense | Moyenne | Faible | **Moyenne** |
 | Déchirures + Moisissures | Intense | Moyenne | Faible | **Moyenne** |
 
