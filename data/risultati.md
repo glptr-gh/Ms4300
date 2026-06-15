@@ -75,7 +75,6 @@
 | Éclaircissement + Dégradation due à l'encre | ? | No | No | ? |
 | Éclaircissement + Humidité | ? | No | No | ? |
 | Éclaircissement + Moisissures | Yes | No | No | ? |
-| Éclaircissement + Traces d'insectes | No | No | No | ? |
 | Éclaircissement + Manipulation | Yes | No | No | ? |
 
 ---
