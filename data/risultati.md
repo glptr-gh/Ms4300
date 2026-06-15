@@ -31,7 +31,7 @@
 | Lacunes + Moisissures | confermata | Intense | Moyenne | **Moyenne/Intense** |
 | Plis + Dégradation due à l'encre | Intense | Intense | Moyenne | **Intense** |
 | Plis + Humidité | Faible | Moyenne | Moyenne | **Moyenne** |
-| Perte de matière + Dégradation de l'encre | Intense | Moyenne | Moyenne | **Moyenne** |
+| Perte de matière + Dégradation due à l'encre | Intense | Moyenne | Moyenne | **Moyenne** |
 | Dégradation due à l'encre + Humidité | Intense | Moyenne | Moyenne | **Moyenne/Intense** ✓ |
 | Dégradation due à l'encre + Moisissures | Intense | Intense | Faible | **Intense** |
 | Humidité + Moisissures | Intense | Intense | Moyenne | **Intense** ✓ |
