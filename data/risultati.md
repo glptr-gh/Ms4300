@@ -1,6 +1,6 @@
-#RISULTATI DEI QUESTIONARI
+# RISULTATI DEI QUESTIONARI
 
-##Sinergie unanimi
+## Sinergie unanimi
 
 | Coppia | Céline | Domitille | Sophie | Intensità da usare |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@
 
 ---
 
-##Punti controversi
+## Punti controversi
 
 | Coppia | Céline | Domitille | Sophie | Situazione |
 |---|---|---|---|---|
