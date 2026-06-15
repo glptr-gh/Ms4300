@@ -1,5 +1,25 @@
 # RISULTATI DEI QUESTIONARI
 
+## File danni
+
+| Danno | Céline | Domitille | Sophie | Media | Scarto |
+|---|---|---|---|---|---|
+| Déchirures | 4 | 7 | 5 | **5.3** | 3 |
+| Froissures | 1 | 3 | 1 | **1.7** | 2 |
+| Lacunes | 6 | 7 | 6 | **6.3** | 1 |
+| Plis | 3 | 3 | 1 | **2.3** | 2 |
+| Perte de matière | 7 | 8 | 6 | **7.0** | 2 |
+| Perte de souplesse | 7 | 6 | 7 | **6.7** | 1 |
+| Poussière | 5 | 4 | 2 | **3.7** | 3 |
+| Éclaircissement | 7 | 1 | 4 | **4.0** | **6** ⚠️ |
+| Taches | 3 | 1 | 6 | **3.3** | **5** ⚠️ |
+| Dégradation due à l'encre | 9 | 9 | 7 | **8.3** | 2 |
+| Humidité | 4 | 1 | 4 | **3.0** | 3 |
+| Moisissures | 10 | 9 | 6 | **8.3** | **4** ⚠️ |
+| Traces d'insectes | 10 | 9 | 4 | **7.7** | **6** ⚠️ |
+
+---
+
 ## Sinergie unanimi
 
 | Coppia | Céline | Domitille | Sophie | Intensità da usare |
